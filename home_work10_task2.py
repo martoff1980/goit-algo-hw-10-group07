@@ -1,6 +1,7 @@
 import scipy.integrate as spi
 import pulp
 import numpy as np
+import matplotlib.pyplot as plt
 
 
 def func_quad():
